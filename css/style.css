@@ -32,6 +32,7 @@ button {
   text-transform: uppercase;
   transition: all 0.1s ease;
   border: none;
+  cursor:pointer;
 }
 
 /* Button 1 */
